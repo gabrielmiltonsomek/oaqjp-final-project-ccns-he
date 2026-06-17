@@ -1,0 +1,9 @@
+﻿Flask==2.3.0
+Flask-CORS==4.0.0
+Flask-Talisman==1.0.0
+python-dotenv==1.0.0
+gunicorn==20.1.0
+nose==1.3.7
+coverage==7.0.0
+flake8==6.0.0
+pylint==2.16.0
