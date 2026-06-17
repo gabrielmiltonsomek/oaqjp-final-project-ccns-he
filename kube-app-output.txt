@@ -1,0 +1,18 @@
+﻿StatusCode        : 200
+StatusDescription : OK
+Content           : {"status":"UP"}
+RawContent        : HTTP/1.1 200 OK
+                    Connection: close
+                    X-Frame-Options: SAMEORIGIN
+                    X-XSS-Protection: 1; mode=block
+                    X-Content-Type-Options: nosniff
+                    Content-Security-Policy: default-src 'self'; object-src 'none'
+                    Refer...
+Forms             :
+Headers           : {[Connection, close], [X-Frame-Options, SAMEORIGIN], [X-XSS-Protection, 1; mode=block],
+                    [X-Content-Type-Options, nosniff]...}
+Images             : {}
+InputFields       : {}
+Links             : {}
+ParsedHtml        :
+RawContentLength  : 16
