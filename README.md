@@ -11,7 +11,7 @@ A DevOps capstone project implementing a customer accounts microservice with:
 - Tekton pipeline automation
 
 ## Build Status
-![CI](https://github.com/gabrielmiltonsomek/oaqjp-final-project-ccns-he/actions/workflows/ci-build.yaml/badge.svg)
+![CI](https://github.com/gabrielmiltonsomek/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
 
 ## Technologies
 - Python/Flask
@@ -21,11 +21,11 @@ A DevOps capstone project implementing a customer accounts microservice with:
 - Tekton Pipelines
 
 ## Quick Start
-bash
+```bash
 python app.py
-bash
+```
 
 ## Testing
-bash
-nosetests -v --with-spec --spec-color
-bash
+```bash
+pytest tests/ -v
+```
